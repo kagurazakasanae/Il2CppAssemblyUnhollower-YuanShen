@@ -1,5 +1,5 @@
 # Il2CppAssemblyUnhollower-Yuanshen
-Modified version of Il2CppAssemblyUnhollower that allows you to analysis GenShen Impact's UserAssembly.dll
+Modified version of Il2CppAssemblyUnhollower that allows you to analysis GenShin Impact's UserAssembly.dll
 
 A tool to generate Managed->IL2CPP proxy assemblies from
  [Il2CppDumper](https://github.com/Perfare/Il2CppDumper )'s output.
