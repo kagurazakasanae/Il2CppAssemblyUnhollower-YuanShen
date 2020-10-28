@@ -1,8 +1,11 @@
 # Il2CppAssemblyUnhollower-Yuanshen
 Modified version of Il2CppAssemblyUnhollower that allows you to analysis GenShin Impact's UserAssembly.dll
 
-A tool to generate Managed->IL2CPP proxy assemblies from
- [Il2CppDumper](https://github.com/Perfare/Il2CppDumper )'s output.
+~~A tool to generate Managed->IL2CPP proxy assemblies from
+[Il2CppDumper](https://github.com/Perfare/Il2CppDumper )'s output.~~
+
+This requires IL2CPP proxy assemblies from modified version of [Il2CppDumper](https://github.com/kagurazakasanae/Il2CppDumper-YuanShen) 
+
 
 This allows the use of IL2CPP domain and objects in it from a managed domain. 
 This includes generic types and methods, arrays, and new object creation. Some things may be horribly broken. 
